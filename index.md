@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [] yes
+- [] no
+- [] maybe
