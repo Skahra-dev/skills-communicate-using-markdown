@@ -4,3 +4,4 @@
 # What is a yes
 # Not sure but yes
 # How yes?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
